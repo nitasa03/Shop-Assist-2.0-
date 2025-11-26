@@ -19,12 +19,12 @@ It combines **large language models** with **rule-based functions** to ensure ac
 - **pandas + numpy** for dataset parsing and filtering
 ------------------------------------
 ## 📂 Project Structure
-- ShopAssist_2.0/ 
-     │── shopassist.py     # Core chatbot logic 
-     │── dataset.csv       # Laptop dataset 
-     │── requirements.txt  # Dependencies 
-     │── README.md         # Project documentation 
-     │── .gitignore        # Ignore unnecessary files
+- ShopAssist_2.0/
+- ──**shopassist.py**    # Core chatbot logic
+- │── **dataset.csv**    # Laptop dataset
+- │── **requirements.txt**  # Dependencies
+- │── **README.md**         # Project documentation
+- │── **.gitignore**        # Ignore unnecessary files
 
 ----------------------------------
 ## ⚙️ Setup Instructions
