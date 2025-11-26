@@ -20,11 +20,11 @@ It combines **large language models** with **rule-based functions** to ensure ac
 ------------------------------------
 ## 📂 Project Structure
 - ShopAssist_2.0/
-│──**shopassist.py**    # Core chatbot logic
-│── **dataset.csv**    # Laptop dataset
-│── **requirements.txt**  # Dependencies
-│── **README.md**         # Project documentation
-│── **.gitignore**        # Ignore unnecessary files
+- **|- shopassist.py**    # Core chatbot logic
+- **|- dataset.csv**    # Laptop dataset
+- **|- requirements.txt**  # Dependencies
+- **|- README.md**         # Project documentation
+- **|- .gitignore**        # Ignore unnecessary files
 
 ----------------------------------
 ## ⚙️ Setup Instructions
