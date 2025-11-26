@@ -20,11 +20,11 @@ It combines **large language models** with **rule-based functions** to ensure ac
 ------------------------------------
 ## 📂 Project Structure
 - ShopAssist_2.0/ 
-    │── shopassist.py        # Core chatbot logic 
-    │── dataset.csv          # Laptop dataset 
-    │── requirements.txt     # Dependencies 
-    │── README.md            # Project documentation 
-    │── .gitignore           # Ignore unnecessary files
+     │── shopassist.py     # Core chatbot logic 
+     │── dataset.csv       # Laptop dataset 
+     │── requirements.txt  # Dependencies 
+     │── README.md         # Project documentation 
+     │── .gitignore        # Ignore unnecessary files
 
 ----------------------------------
 ## ⚙️ Setup Instructions
@@ -42,7 +42,9 @@ It combines **large language models** with **rule-based functions** to ensure ac
      python shopassist.py
 ----------------------------------
 ## 🧑‍💻 Example Usage
-You: Recommend laptops under $1000 with 16GB RAM
+
+User: Recommend laptops under $1000 with 16GB RAM
+
 Bot: Here are 3 laptops that match your criteria...
 
 ----------------------------------
@@ -50,7 +52,6 @@ Bot: Here are 3 laptops that match your criteria...
 - Add UI (Streamlit/Gradio) for interactive demo
 - Expand dataset to other product categories
 - Integrate cloud deployment (GCP/AWS/Azure)
-
 ----------------------------------
 ## 📧 Contact
 Created by Nibedita
